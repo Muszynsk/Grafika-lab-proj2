@@ -1,0 +1,10 @@
+C:\Users\Laptop\Desktop\UwB Inf sem IV\Grafika i komunikacja człowiek-komputer\laboratorium\projekt2sharp\projekt2\bin\Debug\projekt2.exe.config
+C:\Users\Laptop\Desktop\UwB Inf sem IV\Grafika i komunikacja człowiek-komputer\laboratorium\projekt2sharp\projekt2\bin\Debug\projekt2.exe
+C:\Users\Laptop\Desktop\UwB Inf sem IV\Grafika i komunikacja człowiek-komputer\laboratorium\projekt2sharp\projekt2\bin\Debug\projekt2.pdb
+C:\Users\Laptop\Desktop\UwB Inf sem IV\Grafika i komunikacja człowiek-komputer\laboratorium\projekt2sharp\projekt2\obj\Debug\projekt2.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\UwB Inf sem IV\Grafika i komunikacja człowiek-komputer\laboratorium\projekt2sharp\projekt2\obj\Debug\projekt2.Form1.resources
+C:\Users\Laptop\Desktop\UwB Inf sem IV\Grafika i komunikacja człowiek-komputer\laboratorium\projekt2sharp\projekt2\obj\Debug\projekt2.Properties.Resources.resources
+C:\Users\Laptop\Desktop\UwB Inf sem IV\Grafika i komunikacja człowiek-komputer\laboratorium\projekt2sharp\projekt2\obj\Debug\projekt2.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\UwB Inf sem IV\Grafika i komunikacja człowiek-komputer\laboratorium\projekt2sharp\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\UwB Inf sem IV\Grafika i komunikacja człowiek-komputer\laboratorium\projekt2sharp\projekt2\obj\Debug\projekt2.exe
+C:\Users\Laptop\Desktop\UwB Inf sem IV\Grafika i komunikacja człowiek-komputer\laboratorium\projekt2sharp\projekt2\obj\Debug\projekt2.pdb
